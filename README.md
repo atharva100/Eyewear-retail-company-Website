@@ -1,7 +1,6 @@
 # Eyewear-retail-company-Website
 Developing a responsive eyewear website.
 
-Link :- https://citradev.github.io/Eyewear-retail-company-Website/
 
 Final output :
 
