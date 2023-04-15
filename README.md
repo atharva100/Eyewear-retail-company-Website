@@ -1,6 +1,7 @@
 # Eyewear-retail-company-Website
-Developing a responsive eyewear website.
+Developing a responsive eyewear website for a retail company.
 
+Uses Tailwind CSS
 
 Final output :
 
